@@ -1,21 +1,17 @@
-<h3 align="center"> Hi there 👋 </h3>
+### Hi there! 👋
 
-<p align="center">
 I am Sebastian, working as a full stack developer by day and being an home automation, IOT, Sonos and Flutter enthusiast by night.
-</p>
 
-<h4 align="center">
-💻 full stack developer and software engineering consultant <a href="https://rhein-spree.com">@RheinSpree</a> | 📫 reach me <a href="https://twitter.com/brase">@brase</a>
-</h4
-
-<br/>
+- 💻 full stack developer and software engineering consultant <a href="https://rhein-spree.com">@RheinSpree</a> 
+- 🔭 I’m currently working on building functional services and web applications (backend and frontend) with F# and react
+- 📫 reach me <a href="https://twitter.com/brase">@brase</a>
 
 <!--
 **brase/brase** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...

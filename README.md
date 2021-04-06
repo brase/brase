@@ -1,4 +1,14 @@
-### Hi there 👋
+<h3 align="center"> Hi there 👋 </h3>
+
+<p align="center">
+I am Sebastian, working as a full stack developer by day and being an home automation, IOT, Sonos and Flutter enthusiast by night.
+</p>
+
+<h4 align="center">
+💻 full stack developer and software engineering consultant <a href="https://rhein-spree.com">@RheinSpree</a> | 📫 reach me <a href="https://twitter.com/brase">@brase</a>
+</h4
+
+<br/>
 
 <!--
 **brase/brase** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -2,7 +2,7 @@
 
 I am Sebastian, working as a full stack developer by day and being an home automation, IOT, Sonos and Flutter enthusiast by night.
 
-- 💻 full stack developer and software engineering consultant <a href="https://rhein-spree.com">@RheinSpree</a> 
+- 💻 software development archtitext <a href="https://www.softwareone.com">@softwareone</a> 
 - 🔭 I’m currently working on building functional services and web applications (backend and frontend) with F# and react
 - 📫 reach me <a href="https://twitter.com/brase">@brase</a>
 

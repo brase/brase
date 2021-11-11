@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I am Sebastian, working as a full stack developer by day and being an home automation, IOT, Sonos and Flutter enthusiast by night.
+I am Sebastian, working as a software architect by day and being an F#, home automation, IOT and Sonos enthusiast by night.
 
 - 💻 software development archtitect <a href="https://www.softwareone.com">@softwareone</a> 
 - 📫 reach me <a href="https://twitter.com/brase">@brase</a>

@@ -3,7 +3,7 @@
 I am Sebastian, working as a software architect by day and being an F#, home automation, IOT and Sonos enthusiast by night.
 
 - 💻 senior software archtitect <a href="https://www.softwareone.com">@softwareone</a> 
-- 📫 reach me <a rel="me" href="https://techhub.social/@brase">Mastodon</a>
+- 📫 reach me: <a rel="me" href="https://techhub.social/@brase">Mastodon</a>
 
 <!--
 **brase/brase** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

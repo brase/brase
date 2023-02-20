@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I am Sebastian, working as a software architect by day and being an F#, home automation, IOT and Sonos enthusiast by night.
+I am Sebastian, working as a software architect by day and being an F#, home automation, IOT enthusiast by night.
 
 - 💻 senior software archtitect <a href="https://www.softwareone.com">@softwareone</a> 
 - 📫 reach me: <a rel="me" href="https://techhub.social/@brase">Mastodon</a>
